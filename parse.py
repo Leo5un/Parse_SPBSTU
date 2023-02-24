@@ -118,7 +118,7 @@ def check_link(choise, data_time, number_group, name_teacher):
             #try:
             #    teacher = lesson.find('div', class_='lesson__teachers').find('a', class_='lesson__link')
             #    #print(teacher.text)
-            #except:
+            #except: 
             #    print()
             #print(time + ' ' + subject + ' ' + teacher)
             #print()
